@@ -1,204 +1,69 @@
 <h1 align="center">Hi, I'm Konstantin 👋</h1>
 
-<h3 align="center">
-  Python Developer • Automation • Telegram Bots • Backend & Infrastructure
-</h3>
-
 <p align="center">
-  I turn business ideas into working products: bots, monitoring systems,
-  analytics tools and backend services.
+  Python developer from Saint Petersburg.<br>
+  I develop Telegram bots and automation services — from project structure to deployment.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 👨‍💻 About me
+## Projects
 
-I am a Python developer focused on automation, Telegram services,
-backend development and infrastructure.
+### 🌐 [Klaxon.app](https://klyxon.app)
 
-My background combines hands-on development with product thinking
-and experience in B2B, CRM and e-commerce projects.
+One of my web projects.
 
-I enjoy building practical systems that solve real business problems:
+### 🔐 VPN service
 
-- Telegram bots and commercial services
-- Monitoring and notification systems
-- Data analytics and automated reports
-- Backend integrations and APIs
-- Subscription and payment systems
-- Docker-based production environments
-- VPN infrastructure and traffic routing
+A private VPN project with a Telegram bot, subscriptions, payments
+and its own server infrastructure.
+
+[Open Telegram bot](https://t.me/ShopT_VPN_bot) ·
+[Project channel](https://t.me/HeadSTVPN)
 
 ---
 
-## 🚀 Featured projects
+## Open-source projects
 
-### 🔎 Keyword Alert Bot
+### 📊 [CryptoBot](https://github.com/Konstannttiinn1/Cryptobot)
 
-Telegram monitoring system that tracks selected chats and sends
-notifications when configured keywords are detected.
+Telegram bot for tracking cryptocurrency prices and receiving
+scheduled notifications.
 
-Main features:
+`Python` `aiogram` `SQLite` `CoinGecko API`
 
-- Monitoring multiple Telegram chats
-- Keyword and phrase tracking
-- Separate projects and notification channels
-- Multi-user and multi-tenant architecture
-- Protection against duplicate notifications
-- Analytics by date, chat and keyword
-- Excel and HTML reports
+### 🔎 [Keyword Alert Bot](https://github.com/Konstannttiinn1/keyword-alert-bot)
 
-[View repository](https://github.com/Konstannttiinn1/keyword-alert-bot)
+Telegram bot that monitors selected chats for keywords
+and sends matching messages to administrators.
 
----
+`Python` `Telethon` `Docker`
 
-### 📡 ChatRadar
+### ✈️ [AeroDream Bot](https://github.com/Konstannttiinn1/AerodreamBott)
 
-A Telegram chat analytics and lead discovery platform.
+Telegram bot for a business project with an FAQ, customer requests,
+broadcasts, statistics and automated follow-up messages.
 
-The service is designed to help businesses find relevant requests,
-customer needs and potential leads inside selected Telegram communities.
+[Open Telegram bot](https://t.me/Aero_DreamBot)
 
-Core ideas:
-
-- Monitoring target chats
-- Flexible keyword matching
-- Word-form and phrase detection
-- Request classification
-- Audience and demand analytics
-- Advertising insights based on real conversations
-- Project-based workspace for different clients
-
-`Private project • In development`
+`Python` `aiogram` `SQLite` `Docker`
 
 ---
 
-### 📊 CryptoBot
+## Technologies used in my projects
 
-Telegram bot for cryptocurrency price monitoring and scheduled alerts.
-
-Main features:
-
-- Cryptocurrency price tracking
-- RUB and USD display modes
-- Configurable notification intervals
-- Coin search and selection
-- 24-hour price change
-- Centralized market-data collection
-- Individual settings for each user
-- Automatic background notifications
-
-[View repository](https://github.com/Konstannttiinn1/Cryptobot)
-
----
-
-### 🌐 VPN Service Platform
-
-Commercial VPN platform with Telegram-based subscriptions,
-payments and automated infrastructure management.
-
-The project includes:
-
-- User and subscription management
-- Trial access and referral mechanics
-- Multiple regions and server locations
-- Telegram Stars and payment integrations
-- Automated subscription delivery
-- Smart traffic routing
-- XRay and VLESS Reality infrastructure
-- Remnawave node management
-- Docker, Nginx and Linux deployment
-- Monitoring and server load optimization
-
-`Private commercial project`
-
----
-
-### 📝 Survey and HR Automation Bots
-
-Telegram tools for internal company surveys, employee reviews
-and structured feedback collection.
-
-Implemented concepts:
-
-- Multi-step questionnaires
-- Custom answer options
-- Comments for individual answers
-- Employee identification
-- Excel report generation
-- Manager and employee review scenarios
-- Automated result processing
-
-`Private projects`
-
----
-
-## 🛠 Technology stack
-
-### Development
-
-`Python` `Asyncio` `Telegram Bot API` `Telethon`  
-`REST APIs` `JSON` `SQL` `HTML` `Git`
-
-### Databases and storage
-
-`PostgreSQL` `Redis` `SQLite`
-
-### Infrastructure
-
-`Docker` `Docker Compose` `Linux` `Nginx`  
-`systemd` `GitHub` `VPS Administration`
-
-### Specialized technologies
-
-`XRay` `VLESS Reality` `WebSocket`  
-`Remnawave` `Network Routing`
-
----
-
-## 🔭 Current focus
-
-I am currently working on:
-
-- Scalable multi-tenant Telegram services
-- Chat analytics and lead discovery
-- LLM-powered message classification
-- Business process automation
-- Production-ready backend architecture
-- Monitoring and analytics for commercial products
-
----
-
-## 💡 Development approach
-
-I prefer projects that have a clear practical purpose.
-
-My usual process is:
-
-**Business problem → product logic → working prototype → production deployment**
-
-I am especially interested in the intersection of development,
-automation, analytics and real business needs.
-
----
-
-## 📚 Education
-
-- Python for Beginners
-- JetBrains Academy
-- Continuous hands-on practice with production projects
+`Python` · `aiogram` · `Telethon` · `SQLite` · `PostgreSQL`  
+`Docker` · `Linux` · `Git` · `REST API`
 
 ---
 
 <p align="center">
-  <b>Building useful systems, not just writing code.</b>
+  Working on practical projects and learning through development.
 </p>
