@@ -16,7 +16,7 @@
 
 ## Projects
 
-### 🌐 [Klaxon.app](https://klyxon.app)
+### 🌐 [Klyxon.app](https://klyxon.app)
 
 One of my web projects.
 
