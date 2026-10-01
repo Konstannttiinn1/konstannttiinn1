@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="./README.md">🇬🇧 English</a> •
+  <a href="./README_RU.md">🇷🇺 Русский</a>
+</p>
+
 <div align="center">
 
 # Hi, I'm Konstantin 👋
